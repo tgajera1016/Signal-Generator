@@ -1,1 +1,1 @@
-# Signal-Generator-in-C-
+# Signal-Generator
